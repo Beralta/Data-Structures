@@ -11,7 +11,7 @@ public class ExempleOn {
         }
     }
 
-    /* O(n), toda forma de medir requer um parâmetro de entrada, onde o mesmo recebe um valor
-    seja ele pequeno ou grande!, o "n" de imprimir foi esse parâmetro de medida para relacionarmos
+    /* O(n), A notação O(n) busca um elemento de medida para calcular sua complexidade de tempo!
+    Nesse exemplo, levamos em consideração a quantidade em que o elemento é exposto a receber
      */
 }
